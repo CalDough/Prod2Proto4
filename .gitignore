@@ -2,8 +2,8 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
+Koi Pond Prototype /Library/
+Koi Pond Prototype/Temp/
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
